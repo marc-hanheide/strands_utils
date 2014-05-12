@@ -1,0 +1,5 @@
+bool republish
+string input
+string output
+float32 subsampling
+---
